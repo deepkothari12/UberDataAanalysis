@@ -1,0 +1,33 @@
+We will use Python to:
+
+- Check how long do people travel with Uber?
+- What Hour Do Most People Take Uber To Their Destination?
+- Check The Purpose Of Trips
+- Which Day Has The Highest Number Of Trips
+- What Are The Number Of Trips Per Each Day?
+- What Are The Trips In The Month
+- The starting points of trips. Where Do People Start Boarding Their Trip From Most?
+
+SECOND DATASETSS
+
+1. Time-based Analysis:
+    What time of day (morning, afternoon, evening, night) receives the most ride requests?
+    Which day of the week has the highest number of ride requests?
+    
+2. Status-based Analysis:
+    What percentage of requests are completed, canceled, or no-show?
+    Are there certain pickup points where cancellations or "no-shows" are more common?
+    What is the average wait time for completed vs. canceled requests?
+    Which drivers have the highest rate of ride cancellations?
+3. Driver-based Analysis:
+    Which drivers have completed the most rides?
+    What is the average time taken by each driver from request to drop?
+    Which drivers are more likely to accept or cancel a request at different pickup points?
+    Is there any driver who consistently gets higher 'no-show' status?
+4. Pickup Point Analysis:
+    Which pickup point has the highest number of requests?
+    Is there a difference in ride completion rates between different pickup points?
+    What is the average wait time for requests from different pickup points?
+5. Request/Drop Time Efficiency:
+    What is the average duration of a ride (difference between Request timestamp and Drop timestamp) for different pickup points?
+    
